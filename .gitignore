@@ -11,3 +11,4 @@ data/processed/*
 !data/processed/.gitkeep
 reports/*
 !reports/.gitkeep
+data/synthetic/

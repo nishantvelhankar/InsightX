@@ -5,7 +5,10 @@ import platform
 import sys
 from importlib.metadata import version
 
-DEPENDENCIES = {"python-dotenv": "dotenv", "pytest": "pytest"}
+DEPENDENCIES = {
+    "python-dotenv": "dotenv", "pytest": "pytest",
+    "numpy": "numpy", "pandas": "pandas",
+}
 
 
 def main() -> int:

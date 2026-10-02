@@ -1,0 +1,7 @@
+Python: 3.12.14
+OK: python-dotenv 1.1.0
+OK: pytest 8.3.5
+OK: numpy 2.2.6
+OK: pandas 2.2.3
+OK: environment=development, log_level=INFO
+InsightX Phase 1 health check: PASS

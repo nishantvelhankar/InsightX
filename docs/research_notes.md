@@ -1,5 +1,8 @@
 # Phase 1 research record
 
+This is the historical Phase 1 record. Current Phase 2 methodology, limitations,
+and verified generation counts are documented in [phase2_research.md](phase2_research.md).
+
 ## Research question
 
 Does adaptive evidence selection and evidence verification improve the reliability of GenAI-generated explanations of anomalies in structured data?
